@@ -1,6 +1,6 @@
 baseURL = "https://evalog.netlify.app/"
 disqusShortname = ""
-languageCode = "ja-JP"
+languageCode = "jp"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
