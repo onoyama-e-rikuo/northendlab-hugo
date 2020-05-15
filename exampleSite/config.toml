@@ -4,7 +4,7 @@ languageCode = "ja-JP"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "Northendlab | Blog Template"
+title = "Evalog"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
