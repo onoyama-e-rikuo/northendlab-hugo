@@ -1,4 +1,4 @@
-baseURL = "https://evalog.netlify.com/"
+baseURL = "https://evalog.netlify.app/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
